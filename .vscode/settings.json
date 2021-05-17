@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "ostream": "cpp",
+        "stdexcept": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "cstddef": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "iomanip": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "iosfwd": "cpp"
+    }
+}
